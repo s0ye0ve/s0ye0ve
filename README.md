@@ -4,7 +4,8 @@
 I'm Soyeon Min from Korea, and I'm interested in learning Programming & cybersecurity 💻
 ### Experience 📚
 ```
-* Student - Korea Digital Media High school (2020-)
+* Korea Digital Media High school (2020-2022)
+* EWHA Womens University - Department of Computer Science and Engineering (2023-)
 ```
 ### Studying Language 🔥
 <img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/c.png" width="40" height="40"><img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/python.png" width="40" height="40"> 
