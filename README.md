@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs0ye0ve&count_bg=%23B5CBF8&title_bg=%2380858B&icon=&icon_color=%23F3F3F3&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ## Hi there 👋
 I'm Soyeon Min from Korea, and I'm interested in learning Programming & cybersecurity 💻
 ### Experience 📚
