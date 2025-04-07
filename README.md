@@ -4,6 +4,9 @@ I'm Soyeon Min from Korea, majoring in Computer Science and Engineering.
 ```
 * Korea Digital Media High school (2020-2022)
 * Ewha Womans University - Department of Computer Science and Engineering (2023-)
+* Member of EDOC (Ewha Algorithm Club) (2023–2024)
+  - Participated in algorithm study groups and seminars
+* President of EDOC (Ewha Algorithm Club) (2024.07–2024.12)
 ```
 ### Language 🔥
 <p>
