@@ -1,14 +1,16 @@
 ## Hi there 👋
-I'm Soyeon Min from Korea, majoring in Computer Science and Engineering
+I'm Soyeon Min from Korea, majoring in Computer Science and Engineering.
 ### Experience 📚
 ```
 * Korea Digital Media High school (2020-2022)
 * Ewha Womans University - Department of Computer Science and Engineering (2023-)
 ```
 ### Language 🔥
-<img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/c.png" width="40" height="40">
-<img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/python.png" width="40" height="40"> 
-<img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/Cpp.png" width="40" height="40"> 
+<p>
+  <img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/c.png" width="40" height="40">
+  <img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/python.png" width="40" height="40"> 
+  <img src="https://github.com/s0ye0ve/s0ye0ve/blob/main/Cpp.png" width="40" height="40"> 
+</p>
 
 ### Contact 🚀
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Bloglovin&logoColor=white&link=https://s0ye0ve.tistory.com)](https://s0ye0ve.tistory.com)
